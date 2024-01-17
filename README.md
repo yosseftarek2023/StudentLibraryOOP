@@ -3,16 +3,20 @@
 The Student Library System is an Object-Oriented Programming (OOP) project that manages a library with users and books. It provides functionalities to add and manage users, books, and their relationships Using c++ and OOP Concepts.
 
 ## Table of Contents
-- [Classes](#classes)
-- [Functionality](#functionality)
-  - [Add Author to Book](#add-author-to-book)
-  - [Search Book by Title](#search-book-by-title)
-  - [Search User by Name and ID](#search-user-by-name-and-id)
-  - [Compare Users](#compare-users)
-  - [Print User and Books](#print-user-and-books)
-  - [Add User to Userlist and Book](#add-user-to-userlist-and-book)
-  - [Delete User from Userlist and Book](#delete-user-from-userlist-and-book)
-  - [Input User and book details](#input-user-and-book-details)
+- [Classes]
+    - User
+    - Book
+    - Userlist
+    - Booklist
+- [Functionality]
+  - [Add Author to Book]
+  - [Search Book by Title]
+  - [Search User by Name and ID]
+  - [Compare Users]
+  - [Print User and Books]
+  - [Add User to Userlist and Book]
+  - [Delete User from Userlist and Book]
+  - [Input User and book details]
 
 ## Classes
 
